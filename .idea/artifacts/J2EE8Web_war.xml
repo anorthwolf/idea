@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="J2EE8Web:war">
+    <output-path>$PROJECT_DIR$/J2EE8Web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>J2EE8Web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="J2EE8Web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="J2EE8Web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/J2EE8Web/J2EE8Web.iml" filepath="$PROJECT_DIR$/J2EE8Web/J2EE8Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea.iml" filepath="$PROJECT_DIR$/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module01/module01.iml" filepath="$PROJECT_DIR$/module01/module01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webOnly/webOnly.iml" filepath="$PROJECT_DIR$/webOnly/webOnly.iml" />
+    </modules>
+  </component>
+</project>
